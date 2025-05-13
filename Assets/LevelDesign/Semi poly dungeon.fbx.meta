@@ -1,0 +1,334 @@
+fileFormatVersion: 2
+guid: b17df2d2a72b12b43a582e68cbd1bc35
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Arc A
+    second: {fileID: 2100000, guid: ffda46a5b1701ac40be3f8ff02ecd438, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Banner A
+    second: {fileID: 2100000, guid: bf51544969ded7d4080a3c2d24741ace, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Barrel A
+    second: {fileID: 2100000, guid: 97f73f8100709d74dba2faaabc6599f5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Book And Base
+    second: {fileID: 2100000, guid: e2007db70a83737459feec25d443112a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Candle A
+    second: {fileID: 2100000, guid: 70277c8f9752505449d581b1fea11ffb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Carpet End
+    second: {fileID: 2100000, guid: 4c07edc5ec15d404cae0a50116b7ae22, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Carpet Mid
+    second: {fileID: 2100000, guid: a32ad5e387fccfa4ab91c4e2ee5b14f4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "Chains Jail \u0392"
+    second: {fileID: 2100000, guid: e1e527e5768128941afbc42ecf160200, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Door Big
+    second: {fileID: 2100000, guid: 90d14afd33472114499c188b0237f566, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fire Braziel
+    second: {fileID: 2100000, guid: 3011cb87224cd0a419f8e273c166cfb7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Flame
+    second: {fileID: 2100000, guid: ffb031b430b85364eacfca7c143b3c16, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Flame2
+    second: {fileID: 2100000, guid: 025e16ede69665c40bbfdfa4dc6d0a69, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Floor A
+    second: {fileID: 2100000, guid: 048aff5dbd491144c8b8acad9a480094, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Floor B
+    second: {fileID: 2100000, guid: 9952e46c46b32d84bbc77443ea27596d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Floor C
+    second: {fileID: 2100000, guid: f07dfc09c6ec37a4b83d79de10c2e7b0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Floor D
+    second: {fileID: 2100000, guid: c5d698dff5bd9cb44b882ebb6d224713, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Floor D.001
+    second: {fileID: 2100000, guid: 496ecda4b793e3542bb2102078f4166a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Gate B
+    second: {fileID: 2100000, guid: a782a76dc1c002646b6d5bb7d86c3722, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Gate D
+    second: {fileID: 2100000, guid: 01c0dc12eb29cf04fa8546b417cab667, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Holder Candle
+    second: {fileID: 2100000, guid: 4cda98dc50c742d4f8a9c90d6ba50be5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Stairs A2
+    second: {fileID: 2100000, guid: 57f4071098df12e48b4a6846787c26ba, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Stairs C
+    second: {fileID: 2100000, guid: 12f5d70561c675042ac63f93faa4aee9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Stairs Side B
+    second: {fileID: 2100000, guid: 44b2fb33df5afa34099e60d690d3f2ca, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Stairs Side C
+    second: {fileID: 2100000, guid: 67cdb77f87bb4c74088eed3794028534, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Statue A
+    second: {fileID: 2100000, guid: f4a6ce7206e76224db8d02decec1efb1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Statue Base A
+    second: {fileID: 2100000, guid: 883866a93d893334592296c581f500f4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Throne A
+    second: {fileID: 2100000, guid: af12a267cf2f4d24dbb53a2e40d6f2c3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Throne Base
+    second: {fileID: 2100000, guid: fc0046fa52b663143b41e14f12097960, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tree Wall A
+    second: {fileID: 2100000, guid: 73c5c840c0a4cb44c819c3d1a589173c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wall A
+    second: {fileID: 2100000, guid: 1672f432dc66472478461776fd19dbdd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wall B
+    second: {fileID: 2100000, guid: 3ee1c8fafd05ea044a6d90f58cebaecd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wall C
+    second: {fileID: 2100000, guid: a48f250c16499bc41ae861063fd958be, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wall Corner Inside A
+    second: {fileID: 2100000, guid: e4390a9935580ca44ac25ffdd3ba8902, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wall D
+    second: {fileID: 2100000, guid: e26d020538300ac469cfbaf219da79fe, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wall E
+    second: {fileID: 2100000, guid: a71f9277397f5a64eac82777607ee884, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wall Fill A
+    second: {fileID: 2100000, guid: 776574d91b8fecb43820bbb55130f3c0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wall Fill Bottom
+    second: {fileID: 2100000, guid: 259d02673ce19534292093f8b59c9844, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wall Fill Bottom Corner Inside B
+    second: {fileID: 2100000, guid: a8f6710448ac59043a7a265f328e1608, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wall Fill Bottom Corner inside Sharp
+    second: {fileID: 2100000, guid: 0969f0a12b4f2234da82d23bb1175bfe, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wall Fill Corner Outside
+    second: {fileID: 2100000, guid: 42dd421e044697d4dbeaf1e341b596d2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wall Fill Top A
+    second: {fileID: 2100000, guid: e429b643820fa004bbd367832d0e21ef, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wooden Box
+    second: {fileID: 2100000, guid: fa8fa72717ff3a64c8fabdc232962b00, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wooden Wall Fills A
+    second: {fileID: 2100000, guid: 28a8cdc7562841641bec579a2bb75991, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wooden wall Fills Corner A
+    second: {fileID: 2100000, guid: 3a185060e60a0764591c1b04341f00eb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: placeholder Ground
+    second: {fileID: 2100000, guid: e0e7d1515d826594e93e8cf686d57122, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 2
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
